@@ -1,0 +1,1240 @@
+{
+  "productAttr": null,
+  "productCommentSummary": {
+    "skuId": 100012885246,
+    "averageScore": 5,
+    "defaultGoodCount": 54548,
+    "defaultGoodCountStr": "5.4万+",
+    "commentCount": 81858,
+    "commentCountStr": "8.1万+",
+    "goodCount": 26241,
+    "goodCountStr": "2.6万+",
+    "goodRate": 0.96,
+    "goodRateShow": 96,
+    "generalCount": 487,
+    "generalCountStr": "400+",
+    "generalRate": 0.017,
+    "generalRateShow": 2,
+    "poorCount": 582,
+    "poorCountStr": "500+",
+    "poorRate": 0.023,
+    "poorRateShow": 2,
+    "videoCount": 2397,
+    "videoCountStr": "2300+",
+    "afterCount": 1701,
+    "afterCountStr": "1700+",
+    "showCount": 15053,
+    "showCountStr": "1.5万+",
+    "oneYear": 0,
+    "sensitiveBook": 0,
+    "fixCount": 0,
+    "plusCount": 0,
+    "plusCountStr": "0",
+    "buyerShow": 0,
+    "poorRateStyle": 3,
+    "generalRateStyle": 3,
+    "goodRateStyle": 144,
+    "installRate": 0,
+    "productId": 100012885246,
+    "score1Count": 582,
+    "score2Count": 157,
+    "score3Count": 330,
+    "score4Count": 699,
+    "score5Count": 25542
+  },
+  "hotCommentTagStatistics": [
+    {
+      "id": "a38999eabe1d7422",
+      "name": "运行速快",
+      "count": 4152,
+      "type": 4,
+      "canBeFiltered": true,
+      "stand": 1,
+      "rid": "a38999eabe1d7422",
+      "ckeKeyWordBury": "eid=100^^tagid=a38999eabe1d7422^^pid=20018^^sku=100012885246^^sversion=1000^^token=299cead39cc408b7"
+    },
+    {
+      "id": "2a2422ee9d1f7dfc",
+      "name": "反应灵敏",
+      "count": 366,
+      "type": 4,
+      "canBeFiltered": true,
+      "stand": 1,
+      "rid": "2a2422ee9d1f7dfc",
+      "ckeKeyWordBury": "eid=100^^tagid=2a2422ee9d1f7dfc^^pid=20018^^sku=100012885246^^sversion=1000^^token=e5490f2f36060829"
+    },
+    {
+      "id": "b1ed9e915aec5abe",
+      "name": "十分大气",
+      "count": 350,
+      "type": 4,
+      "canBeFiltered": true,
+      "stand": 1,
+      "rid": "b1ed9e915aec5abe",
+      "ckeKeyWordBury": "eid=100^^tagid=b1ed9e915aec5abe^^pid=20018^^sku=100012885246^^sversion=1000^^token=809b912d148f88f2"
+    },
+    {
+      "id": "065a948bf6852012",
+      "name": "简洁大方",
+      "count": 335,
+      "type": 4,
+      "canBeFiltered": true,
+      "stand": 1,
+      "rid": "065a948bf6852012",
+      "ckeKeyWordBury": "eid=100^^tagid=065a948bf6852012^^pid=20018^^sku=100012885246^^sversion=1000^^token=afc27133aeca927d"
+    },
+    {
+      "id": "62a40b5b9741b542",
+      "name": "简约时尚",
+      "count": 256,
+      "type": 4,
+      "canBeFiltered": true,
+      "stand": 1,
+      "rid": "62a40b5b9741b542",
+      "ckeKeyWordBury": "eid=100^^tagid=62a40b5b9741b542^^pid=20018^^sku=100012885246^^sversion=1000^^token=6d7a10160e0023f3"
+    },
+    {
+      "id": "5949c2545ef53ac3",
+      "name": "运行超快",
+      "count": 241,
+      "type": 4,
+      "canBeFiltered": true,
+      "stand": 1,
+      "rid": "5949c2545ef53ac3",
+      "ckeKeyWordBury": "eid=100^^tagid=5949c2545ef53ac3^^pid=20018^^sku=100012885246^^sversion=1000^^token=4662b0dfedd8b742"
+    },
+    {
+      "id": "e70be6b97066270c",
+      "name": "散热超快",
+      "count": 212,
+      "type": 4,
+      "canBeFiltered": true,
+      "stand": 1,
+      "rid": "e70be6b97066270c",
+      "ckeKeyWordBury": "eid=100^^tagid=e70be6b97066270c^^pid=20018^^sku=100012885246^^sversion=1000^^token=d2d86126d548b40f"
+    },
+    {
+      "id": "2df4fdbae69942d8",
+      "name": "倍感舒适",
+      "count": 202,
+      "type": 4,
+      "canBeFiltered": true,
+      "stand": 1,
+      "rid": "2df4fdbae69942d8",
+      "ckeKeyWordBury": "eid=100^^tagid=2df4fdbae69942d8^^pid=20018^^sku=100012885246^^sversion=1000^^token=235b02ecba3959b6"
+    },
+    {
+      "id": "be4c76ce01b83386",
+      "name": "简单方便",
+      "count": 60,
+      "type": 4,
+      "canBeFiltered": true,
+      "stand": 1,
+      "rid": "be4c76ce01b83386",
+      "ckeKeyWordBury": "eid=100^^tagid=be4c76ce01b83386^^pid=20018^^sku=100012885246^^sversion=1000^^token=39b287ac5fc14f5d"
+    },
+    {
+      "id": "b903fb07c2ddcb06",
+      "name": "质量上乘",
+      "count": 50,
+      "type": 4,
+      "canBeFiltered": true,
+      "stand": 1,
+      "rid": "b903fb07c2ddcb06",
+      "ckeKeyWordBury": "eid=100^^tagid=b903fb07c2ddcb06^^pid=20018^^sku=100012885246^^sversion=1000^^token=d11ee2d479a2b9df"
+    }
+  ],
+  "jwotestProduct": null,
+  "maxPage": 100,
+  "testId": "cmt",
+  "score": 0,
+  "soType": 5,
+  "imageListCount": 500,
+  "vTagStatistics": null,
+  "csv": "eid=100^^tagid=ALL^^pid=20018^^sku=100012885246^^sversion=1001^^pageSize=1",
+  "comments": [
+    {
+      "id": 14215043981,
+      "guid": "3441b6d9-91af-4b58-ab62-dfbbdea26acc",
+      "content": "外观非常漂亮商务，做工精细，键盘手感非常好。\n1，4800H性能太强大，平时用很少能超过10%占用，玩3A游戏巫师3也就15%左右占用。CPU开静音模式3G以下，性能都是足够足够的，可以锤英特尔10300h。感觉4800h这颗U性能真的是过剩了，无敌就是这么寂寞。\n2，噪音控制非常好，在5000价位游戏本基本上基本上是无敌的存在，双考实测53分贝，天选和宏碁擎都是63分贝（1分贝是增加10%音量，所以天选和擎噪音是r7000的一倍，差距巨大），玩巫师3和坦克世界只有48分贝，平时看电影上网CPU只有0～5%占用，这时候风扇都不怎么转，大部分时候风扇不转，转的时候声音也不大。就如口吹风的声音大小，就跟轻薄本似的安静如斯。\n3，玩了下坦克世界，最高特效显卡吃满，可以维持110帧。王者荣耀，吃不满显卡，60%占用，可以160帧。魔兽世界最高画质，100帧。巫师3，显卡吃满，中画质60帧，高画质50帧冒头。这颗1650显卡表现可以说相当不错了。\n4，屏幕，我的是京东方，色彩不错，看着很舒服。这块屏幕实测好像是340nt，25ms，94%srgb色域。我觉得算是符合要求的。黑盘级别三星981a。",
+      "creationTime": "2020-05-30 19:38:25",
+      "isDelete": false,
+      "isTop": false,
+      "userImageUrl": "storage.360buyimg.com/i.imageUpload/31353631303333393131385f7031353931393234353635313035_sma.jpg",
+      "topped": 0,
+      "replies": [],
+      "replyCount": 136,
+      "score": 5,
+      "imageStatus": 1,
+      "title": "",
+      "usefulVoteCount": 220,
+      "userClient": 4,
+      "discussionId": 736586751,
+      "imageCount": 8,
+      "anonymousFlag": 0,
+      "plusAvailable": 201,
+      "mobileVersion": "",
+      "images": [
+        {
+          "id": 1145298103,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/133207/14/805/99104/5ed245abE889fb5e6/b5cec0900dd0f25c.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1145298104,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/133049/40/836/152959/5ed245acE1e3f694a/eb60acd1cef7108f.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1145298105,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/126328/40/3547/108163/5ed245acEd04a1c20/5dea9ff7e169c988.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1145298106,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/111402/24/8762/200378/5ed245adE049d01e8/170ce9ebad480dd5.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1145298107,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/113326/3/8735/217529/5ed245aeE774e7f5c/394f48dbcfc65dee.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1145298108,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/120168/24/3545/244352/5ed245afE5969fa35/5eccdf849255951b.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1145298109,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/125910/7/3453/135565/5ed245b0Ef837304f/439cf82879f8bfb8.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1145298110,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/131116/3/885/245800/5ed245b1E1d83d17b/e69e8b7e07a6bc59.jpg",
+          "imgTitle": "",
+          "status": 0
+        }
+      ],
+      "videos": [
+        {
+          "id": 1145298111,
+          "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/1d0b0eb6319192376311078913/imageSampleSnapshot/1590837405_820535409.100_460.jpg",
+          "videoHeight": 1280,
+          "videoWidth": 720,
+          "videoLength": 4,
+          "videoTitle": "",
+          "videoUrl": 203347479,
+          "videoId": 203347479,
+          "status": 0,
+          "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/1d0b0eb6319192376311078913/v.f30.mp4?dockingId=88d0c7ef-899c-4cff-85b9-87a455e983b0&storageSource=3"
+        }
+      ],
+      "mergeOrderStatus": 2,
+      "productColor": "R7-4800H/GTX1650",
+      "productSize": "16G/512GSSD",
+      "textIntegral": 20,
+      "imageIntegral": 20,
+      "status": 1,
+      "referenceId": "100012885264",
+      "referenceTime": "2020-05-12 20:13:27",
+      "nickname": "jd156103crt",
+      "replyCount2": 261,
+      "userImage": "storage.360buyimg.com/i.imageUpload/31353631303333393131385f7031353931393234353635313035_sma.jpg",
+      "orderId": 0,
+      "integral": 40,
+      "productSales": "[{\"dim\":4,\"saleName\":\"null\",\"saleValue\":\"100%sRGB\"},{\"dim\":5,\"saleName\":\"null\",\"saleValue\":\"幻影黑\"}]",
+      "referenceImage": "jfs/t1/128206/6/403/298429/5eb4fe91Ebede67ec/c1079bf30832e68b.jpg",
+      "referenceName": "联想(Lenovo)拯救者R7000 15.6英寸游戏笔记本电脑(R5-4600H 16G 512G SSD GTX1650 100%sRGB)幻影黑",
+      "firstCategory": 670,
+      "secondCategory": 671,
+      "thirdCategory": 1105,
+      "aesPin": "ECkx2JU6xwGP9aWyEw9teM_rSBoVPtUKvk_AbgnjzS079Goq5oGElnJk1tk3CzFvkgsS-Aep_xXH6gW9r2smXg",
+      "days": 18,
+      "afterDays": 0
+    },
+    {
+      "id": 14156992662,
+      "guid": "2004c50d-647a-4545-897c-86472d9a4792",
+      "content": "时隔八年，再次购买联想的电脑，拯救者R7000 4800H 1650，开箱非常惊艳，键盘手感很高，屏幕清晰，速度快，鲁大师跑分45万。做工精良，散热很棒。以后码代码，画图就毫无压力了，哈哈！AMD, YES!   联想拯救者，YES!",
+      "creationTime": "2020-05-15 23:46:44",
+      "isDelete": false,
+      "isTop": false,
+      "userImageUrl": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+      "topped": 0,
+      "replies": [],
+      "replyCount": 83,
+      "score": 5,
+      "imageStatus": 1,
+      "title": "",
+      "usefulVoteCount": 123,
+      "userClient": 4,
+      "discussionId": 728919734,
+      "imageCount": 8,
+      "anonymousFlag": 0,
+      "plusAvailable": 201,
+      "mobileVersion": "",
+      "images": [
+        {
+          "id": 1133169501,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/127208/32/1646/101916/5ebeb961E5d9e3342/ae5e042486afc91f.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133169502,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/116296/25/6923/93479/5ebeb961E816abddb/5bef83716e54f779.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133169503,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/122811/31/1743/95690/5ebeb962Edef03156/24fc94e93a05dea4.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133169504,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/123059/11/1665/94986/5ebeb962E538f051f/52afc03ac5f94bd2.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133169505,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/127177/4/1650/156614/5ebeb962E2ad80820/7af7f87c9c3f7a39.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133169506,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/116928/33/7063/121439/5ebeb963E60d881ee/7c48943353533d3d.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133169507,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/125497/2/1661/115585/5ebeb963E7236837c/956f98071ecac616.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133169508,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/122478/30/1697/95579/5ebeb964E38973b3e/aaa41f672438231c.jpg",
+          "imgTitle": "",
+          "status": 0
+        }
+      ],
+      "videos": [
+        {
+          "id": 1133169509,
+          "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/1986675a313824289671884801/imageSampleSnapshot/1589557548_11443490.100_986.jpg",
+          "videoHeight": 1280,
+          "videoWidth": 592,
+          "videoLength": 9,
+          "videoTitle": "",
+          "videoUrl": 201141104,
+          "videoId": 201141104,
+          "status": 0,
+          "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/1986675a313824289671884801/v.f30.mp4?dockingId=2756e870-c783-480e-a80a-c5cae8be3512&storageSource=3"
+        }
+      ],
+      "mergeOrderStatus": 2,
+      "productColor": "R7-4800H/GTX1650",
+      "productSize": "16G/512GSSD",
+      "textIntegral": 20,
+      "imageIntegral": 20,
+      "status": 1,
+      "referenceId": "100012885264",
+      "referenceTime": "2020-05-12 19:42:05",
+      "nickname": "小小歌2015",
+      "replyCount2": 148,
+      "userImage": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+      "orderId": 0,
+      "integral": 40,
+      "productSales": "[{\"dim\":4,\"saleName\":\"null\",\"saleValue\":\"100%sRGB\"},{\"dim\":5,\"saleName\":\"null\",\"saleValue\":\"幻影黑\"}]",
+      "referenceImage": "jfs/t1/128206/6/403/298429/5eb4fe91Ebede67ec/c1079bf30832e68b.jpg",
+      "referenceName": "联想(Lenovo)拯救者R7000 15.6英寸游戏笔记本电脑(R5-4600H 16G 512G SSD GTX1650 100%sRGB)幻影黑",
+      "firstCategory": 670,
+      "secondCategory": 671,
+      "thirdCategory": 1105,
+      "aesPin": "SiXNl6jPtsyYNKu4V516m48o8-RAHg6HP5bU0xG2fUZ6QAyAriPSGNZqvxK7RnnSSpGIwRiM_B9EC-aLy6GF6w",
+      "days": 3,
+      "afterDays": 0
+    },
+    {
+      "id": 14307982423,
+      "guid": "f390178b-fad2-4160-8d98-0447e9a8e8a4",
+      "content": "早就准备购买第二台笔记本了，第一台笔记本联想的，用到现在，还在服役，但已经不能满足需求了，于是做了各种功课，最后还是选中了联想拯救者R7000，原因两个，其一，价格真香，是真真的香，同等价位，秒杀所有对手品牌（神*品牌除外），其二，颜值高啊，反正我是喜欢，说是游戏本，却一点也不张逛，甚至满满的商务风，所以多场合适用。再加一条，生产力高，CPU性能高，双能道16G，显卡够用。所以，香啊，没办法，只能这样选择了。",
+      "creationTime": "2020-06-19 11:38:30",
+      "isDelete": false,
+      "isTop": false,
+      "userImageUrl": "storage.360buyimg.com/i.imageUpload/6a69616e7a686971697531333932313036313131303735_sma.jpg",
+      "topped": 0,
+      "replies": [],
+      "replyCount": 8,
+      "score": 5,
+      "imageStatus": 1,
+      "title": "",
+      "usefulVoteCount": 21,
+      "userClient": 0,
+      "discussionId": 748939796,
+      "imageCount": 8,
+      "anonymousFlag": 1,
+      "plusAvailable": 201,
+      "mobileVersion": "",
+      "images": [
+        {
+          "id": 1165215630,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/125998/37/5255/250833/5eec3449E0f2c7040/0297e04b644e2beb.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1165215631,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/113952/13/10490/354965/5eec3449E4c1f4211/b5d3a75c2f12a453.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1165215632,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/147593/32/1011/354886/5eec3449E3fd106df/d451e28feaf7ee38.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1165215633,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/143244/26/1038/316480/5eec344aE02f6876f/7ce784e70055c6d7.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1165215634,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/143268/26/1065/438715/5eec344aE5d5f7273/500f987f40297b6e.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1165215635,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/114116/35/10627/290744/5eec3449E56cb581f/9004691ee6d0c1a9.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1165215636,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/138939/38/1002/548531/5eec344aEb9e7256b/c6c54284b8beff0b.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1165215637,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/127861/36/5216/417165/5eec3449E580699d6/a660a88849e4dd98.jpg",
+          "imgTitle": "",
+          "status": 0
+        }
+      ],
+      "videos": [
+        {
+          "id": 1165215638,
+          "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/312b3e80326325629539065857/imageSampleSnapshot/1592538100_182181778.100_990.jpg",
+          "videoHeight": 720,
+          "videoWidth": 1280,
+          "videoLength": 9,
+          "videoTitle": "",
+          "videoUrl": 206334856,
+          "videoId": 206334856,
+          "status": 0,
+          "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/312b3e80326325629539065857/v.f30.mp4?dockingId=a7b57078-8e99-487a-b132-476a7a967b70&storageSource=3"
+        }
+      ],
+      "mergeOrderStatus": 2,
+      "productColor": "R7-4800H/GTX1650",
+      "productSize": "16G/512GSSD",
+      "textIntegral": 60,
+      "imageIntegral": 60,
+      "status": 1,
+      "referenceId": "100012885264",
+      "referenceTime": "2020-06-11 00:00:14",
+      "nickname": "水***堤",
+      "replyCount2": 16,
+      "userImage": "storage.360buyimg.com/i.imageUpload/6a69616e7a686971697531333932313036313131303735_sma.jpg",
+      "orderId": 0,
+      "integral": 120,
+      "productSales": "[{\"dim\":4,\"saleName\":\"null\",\"saleValue\":\"100%sRGB\"},{\"dim\":5,\"saleName\":\"null\",\"saleValue\":\"幻影黑\"}]",
+      "referenceImage": "jfs/t1/128206/6/403/298429/5eb4fe91Ebede67ec/c1079bf30832e68b.jpg",
+      "referenceName": "联想(Lenovo)拯救者R7000 15.6英寸游戏笔记本电脑(R5-4600H 16G 512G SSD GTX1650 100%sRGB)幻影黑",
+      "firstCategory": 670,
+      "secondCategory": 671,
+      "thirdCategory": 1105,
+      "aesPin": null,
+      "days": 8,
+      "afterDays": 0
+    },
+    {
+      "id": 14306985172,
+      "guid": "94ae1ee2-5903-471a-9ac8-2298074c7975",
+      "content": "之前用的宏碁电脑已服役5年，选机的时候无意中看上了这款人气之作拯救者R7000，看了一些测评就相中了。6月1日错过了一波抢购，11日0点终于蹲到了一台，龙腾屏幕，储存介质三星，算是二等奖吧，其实也没觉得龙腾的屏幕有什么不好，分辨率还是比较满意的。\n看了R7000几个配置的评论，感觉R7+1650性价比最高，R7-4800的CPU确实极具性价比，跑分44W左右。本人平时主要玩魔兽世界怀旧服，实测双开3档特效非常流畅，CPU和键盘温度都控制在40度左右，基本没什么感觉，不得不说电脑的散热是真的牛，即使风扇转速这么高也没有什么声音，键盘敲击感也好，虽然比不上我台式机配置的罗技机械键盘，但笔记本做到这样已经不错了，键盘还可以开背光，阴暗环境下真的太实用了。\n30多岁老阿叔打山口山专用机器，中午午休前双开刷个厄运挖个矿，偶尔打打团本，流畅的一比，够用了，5500多可以买到这么划算的机子，感觉其实最低配也能满足日常游戏需求，AM -D这次真的没有让我失望，买了以后感觉真的香，现在爱不释手，希望能帮到你。",
+      "vcontent": "之前用的宏碁电脑已服役5年，选机的时候无意中看上了这款人气之作拯救者R7000，看了一些测评就相中了。6月1日错过了一波抢购，11日0点终于蹲到了一台，龙腾屏幕，储存介质三星，算是二等奖吧，其实也没觉得龙腾的屏幕有什么不好，分辨率还是比较满意的。\n看了R7000几个配置的评论，感觉R7+1650性价比最高，R7-4800的CPU确实极具性价比，跑分44W左右。本人平时主要玩魔兽世界怀旧服，实测双开3档特效非常流畅，CPU和键盘温度都控制在40度左右，基本没什么感觉，不得不说电脑的散热是真的牛，即使风扇转速这么高也没有什么声音，键盘敲击感也好，虽然比不上我台式机配置的罗技机械键盘，但笔记本做到这样已经不错了，键盘还可以开背光，阴暗环境下真的太实用了。\n30多岁老阿叔打山口山专用机器，中午午休前双开刷个厄运挖个矿，偶尔打打团本，流畅的一比，够用了，5500多可以买到这么划算的机子，感觉其实最低配也能满足日常游戏需求，AM -D这次真的没有让我失望，买了以后感觉真的香，现在爱不释手，希望能帮到你。",
+      "creationTime": "2020-06-19 08:58:12",
+      "isDelete": false,
+      "isTop": false,
+      "userImageUrl": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+      "topped": 0,
+      "replies": [],
+      "replyCount": 17,
+      "score": 5,
+      "imageStatus": 1,
+      "title": "",
+      "usefulVoteCount": 28,
+      "userClient": 2,
+      "discussionId": 748793631,
+      "imageCount": 8,
+      "anonymousFlag": 0,
+      "plusAvailable": 201,
+      "mobileVersion": "",
+      "images": [
+        {
+          "id": 1164987194,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/137477/3/2581/299614/5eec0d9cEdd12eb7a/d9a9bf83e2ef3d3b.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1164987195,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/124386/32/5176/286179/5eec0d9dEcaa9f2c9/fa8c49c14f055687.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1164987196,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/148291/7/975/448641/5eec0da2E9ad1efe9/27140f213d5f8fa1.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1164987197,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/149087/15/983/471890/5eec0da2E9a7da660/b830f9c421f25fa9.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1164987198,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/145480/23/1003/540675/5eec0da4Ec21e6209/bb769db3aec07807.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1164987199,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/141944/16/1025/221138/5eec0d9bEaa6bfdec/e410afffcd4a5bd0.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1164987200,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/112651/3/10377/313949/5eec0d9fE3c843ba5/985f790e652f52c2.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1164987201,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/148651/8/984/519684/5eec0da4E9f571e50/a91e58c1fce9f705.jpg",
+          "imgTitle": "",
+          "status": 0
+        }
+      ],
+      "videos": [
+        {
+          "id": 1164987202,
+          "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/56e0c34b326280872423604225/imageSampleSnapshot/1592527433_470724034.100_990.jpg",
+          "videoHeight": 720,
+          "videoWidth": 1280,
+          "videoLength": 9,
+          "videoTitle": "",
+          "videoUrl": 206315838,
+          "videoId": 206315838,
+          "status": 0,
+          "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/56e0c34b326280872423604225/v.f30.mp4?dockingId=1abb2ff6-7a4f-411e-a4c2-ba6e6ffb94b9&storageSource=3"
+        }
+      ],
+      "mergeOrderStatus": 2,
+      "productColor": "R7-4800H/GTX1650",
+      "productSize": "16G/512GSSD",
+      "textIntegral": 20,
+      "imageIntegral": 20,
+      "status": 1,
+      "referenceId": "100012885264",
+      "referenceTime": "2020-06-11 00:00:21",
+      "nickname": "h***9",
+      "replyCount2": 24,
+      "userImage": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+      "orderId": 0,
+      "integral": 40,
+      "productSales": "[{\"dim\":4,\"saleName\":\"null\",\"saleValue\":\"100%sRGB\"},{\"dim\":5,\"saleName\":\"null\",\"saleValue\":\"幻影黑\"}]",
+      "referenceImage": "jfs/t1/128206/6/403/298429/5eb4fe91Ebede67ec/c1079bf30832e68b.jpg",
+      "referenceName": "联想(Lenovo)拯救者R7000 15.6英寸游戏笔记本电脑(R5-4600H 16G 512G SSD GTX1650 100%sRGB)幻影黑",
+      "firstCategory": 670,
+      "secondCategory": 671,
+      "thirdCategory": 1105,
+      "aesPin": "CoK3pUcIdZSdywFc0Jzw5AVHL9VPF7v6mQFWSoqA86Qix1e0n40XCW1EhO1cHvb2vJ3Zv8iuaTiYvK4amKSCnA",
+      "days": 8,
+      "afterDays": 0
+    },
+    {
+      "id": 14177118114,
+      "guid": "ac0415d2-a42c-4c66-b730-a4bb0031830b",
+      "content": "R7000的颜值很赞！烧色logo特别好看！4800H性能很强，当做生产力工具特别合适！1650显卡也够用了。就是A面还是太容易沾指纹了。c面有种绒绒的图层的感觉，非常舒服，键盘手感很好！",
+      "vcontent": "R7000的颜值很赞！烧色logo特别好看！4800H性能很强，当做生产力工具特别合适！1650显卡也够用了。就是A面还是太容易沾指纹了。c面有种绒绒的图层的感觉，非常舒服，键盘手感很好！",
+      "creationTime": "2020-05-21 02:49:38",
+      "isDelete": false,
+      "isTop": false,
+      "userImageUrl": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+      "topped": 0,
+      "replies": [],
+      "replyCount": 25,
+      "score": 5,
+      "imageStatus": 1,
+      "title": "",
+      "usefulVoteCount": 53,
+      "userClient": 2,
+      "discussionId": 731565747,
+      "imageCount": 8,
+      "anonymousFlag": 0,
+      "plusAvailable": 203,
+      "mobileVersion": "",
+      "images": [
+        {
+          "id": 1137463312,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/126550/34/2421/830787/5ec57bc1E97bd4fd7/848173dbbed56568.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1137463313,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/120784/34/2378/453273/5ec57bc1E7479965e/edd53fe43fa573c6.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1137463314,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/122643/15/2393/211577/5ec57bc1E4a3d61dc/b8cf8d1d688f1b1f.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1137463315,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/124523/15/2475/425587/5ec57bc1E850ed9ef/d5b1048a76ea7b9f.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1137463316,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/120938/2/2415/518111/5ec57bc2Ecaecadf9/ef3ae679674e24e8.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1137463317,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/114831/33/7692/283491/5ec57bc1Ec104444b/0da37be7564d550d.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1137463318,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/128755/22/2403/372709/5ec57bc2E6219e797/28d5babe99cb92bd.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1137463319,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/124939/12/2413/245698/5ec57bc1E127b836e/849d2f90721c239d.jpg",
+          "imgTitle": "",
+          "status": 0
+        }
+      ],
+      "videos": [
+        {
+          "id": 1137463320,
+          "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/1820444f315682197124739073/imageSampleSnapshot/1590000507_306824821.100_880.jpg",
+          "videoHeight": 720,
+          "videoWidth": 1280,
+          "videoLength": 8,
+          "videoTitle": "",
+          "videoUrl": 201873878,
+          "videoId": 201873878,
+          "status": 0,
+          "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/1820444f315682197124739073/v.f30.mp4?dockingId=b1afbcf9-def2-46db-81d0-3eacec58b029&storageSource=3"
+        }
+      ],
+      "mergeOrderStatus": 2,
+      "productColor": "R7-4800H/GTX1650",
+      "productSize": "16G/512GSSD",
+      "textIntegral": 20,
+      "imageIntegral": 20,
+      "status": 1,
+      "referenceId": "100012885264",
+      "referenceTime": "2020-05-07 20:32:37",
+      "nickname": "多云先生",
+      "replyCount2": 47,
+      "userImage": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+      "orderId": 0,
+      "integral": 40,
+      "productSales": "[{\"dim\":4,\"saleName\":\"null\",\"saleValue\":\"100%sRGB\"},{\"dim\":5,\"saleName\":\"null\",\"saleValue\":\"幻影黑\"}]",
+      "referenceImage": "jfs/t1/128206/6/403/298429/5eb4fe91Ebede67ec/c1079bf30832e68b.jpg",
+      "referenceName": "联想(Lenovo)拯救者R7000 15.6英寸游戏笔记本电脑(R5-4600H 16G 512G SSD GTX1650 100%sRGB)幻影黑",
+      "firstCategory": 670,
+      "secondCategory": 671,
+      "thirdCategory": 1105,
+      "aesPin": "drUBWRvW13dnThrqAHt6uBfzyOaurKuIUxww54hpOvbK2SDii9YHWDMw1Y5Jl3F9I7Wckpoq3mJr4qDeedRq9g",
+      "days": 14,
+      "afterDays": 0
+    },
+    {
+      "id": 14156591482,
+      "guid": "e52542ac-5c2a-4da5-82af-4d8aa3a7add0",
+      "content": "作为一名学生，第一次买笔记本，家里的笔记是十年前的笔记本了，散热，硬件设备多少有些落伍了，因为疫情的缘故，长时间的待在家中，笔记本的使用度很高，除了平日里玩一玩游戏散散心，还有学校布置的网课任务需要完成，之前还可以凑活使用的老笔记本也在这时期下显得格外的不便使用。联想是电脑一线品牌这是毋庸置疑的一个点，但是对我个人意愿而言，我更愿意称之为我心目中最好的笔记本品，如果一台联想的笔记本，是我长时间以来，无法忘记的心事。选择电脑时，我看了大量的测评视频与文章，对一台笔记本的配置级别有了定义，同时，对自己所需要的笔记本，更是暗下决心。当今市面上，锐龙的处理器和酷睿的处理器，锐龙价格更加优惠，性能也更为出色，我购入的这一台笔记本，所用的正是锐龙最新一代的锐龙处理器，我个人非常喜欢也非常满意，之前，因为我喜欢的联想笔记本价格略高，迟迟没有入手，但是看到了这一台r7000，我没有再让自己错过。高色域屏视觉很好，日常看电影追剧很好，同时配备的1650显卡，也可以玩市面上的绝大多数游戏，再加上颜值，和联想一向的质感与品质，我强烈建议入手一样一台，不会让你有任何后悔的笔记本，以上都是我全心全意的评价！",
+      "creationTime": "2020-05-15 21:37:48",
+      "isDelete": false,
+      "isTop": false,
+      "userImageUrl": "storage.360buyimg.com/i.imageUpload/6c756c7538383638383631343738353330333634383030_sma.jpg",
+      "topped": 0,
+      "replies": [],
+      "replyCount": 45,
+      "score": 5,
+      "imageStatus": 1,
+      "title": "",
+      "usefulVoteCount": 114,
+      "userClient": 4,
+      "discussionId": 728866365,
+      "imageCount": 8,
+      "anonymousFlag": 0,
+      "plusAvailable": 103,
+      "mobileVersion": "",
+      "images": [
+        {
+          "id": 1133086129,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/121362/17/1673/75793/5ebe9b27Ea40d543c/6caef38a1e70dc57.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133086130,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/122614/27/1662/65846/5ebe9b27E88aeaf25/495d1cd9ecd7cade.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133086131,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/122526/29/1697/81300/5ebe9b28E60abfcd6/9502128e2a514561.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133086132,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/115401/16/6981/70497/5ebe9b28E390b1967/2e314d3ca9d96709.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133086133,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/112519/36/6950/72159/5ebe9b29E612eacf7/3a8b5ccb3076c653.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133086134,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/113392/34/6885/72994/5ebe9b2aEcf6cac0c/57d0601866bd8dbe.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133086135,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/113346/13/6969/88763/5ebe9b2bE31322b49/6955944c7be5f30e.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1133086136,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/121148/16/1675/119407/5ebe9b2cE5970881c/e4b793d4b9236688.jpg",
+          "imgTitle": "",
+          "status": 0
+        }
+      ],
+      "videos": [
+        {
+          "id": 1133086137,
+          "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/2a7e9d69313791394441879553/imageSampleSnapshot/1589549726_986352713.100_1055.jpg",
+          "videoHeight": 1280,
+          "videoWidth": 720,
+          "videoLength": 10,
+          "videoTitle": "",
+          "videoUrl": 201089783,
+          "videoId": 201089783,
+          "status": 0,
+          "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/2a7e9d69313791394441879553/v.f30.mp4?dockingId=a57c7f5f-cbc7-434d-849f-3149b36f2904&storageSource=3"
+        }
+      ],
+      "mergeOrderStatus": 2,
+      "productColor": "R5-4600H/GTX1650",
+      "productSize": "16G/512GSSD",
+      "textIntegral": 20,
+      "imageIntegral": 20,
+      "status": 1,
+      "referenceId": "100012885246",
+      "referenceTime": "2020-05-11 17:37:25",
+      "nickname": "l***6",
+      "replyCount2": 78,
+      "userImage": "storage.360buyimg.com/i.imageUpload/6c756c7538383638383631343738353330333634383030_sma.jpg",
+      "orderId": 0,
+      "integral": 40,
+      "productSales": "[{\"dim\":4,\"saleName\":\"null\",\"saleValue\":\"100%sRGB\"},{\"dim\":5,\"saleName\":\"null\",\"saleValue\":\"幻影黑\"}]",
+      "referenceImage": "jfs/t1/128206/6/403/298429/5eb4fe91Ebede67ec/c1079bf30832e68b.jpg",
+      "referenceName": "联想(Lenovo)拯救者R7000 15.6英寸游戏笔记本电脑(R5-4600H 16G 512G SSD GTX1650 100%sRGB)幻影黑",
+      "firstCategory": 670,
+      "secondCategory": 671,
+      "thirdCategory": 1105,
+      "aesPin": "pbtxUXFBFfD6TiVqP38iu3MOzlUaaxHdFc_J_VIEKLhEgTVrRUU_HBPb4xw5bGBjJ3zYNOWX7DYAaCKSdPssew",
+      "days": 4,
+      "afterDays": 0
+    },
+    {
+      "id": 14152813894,
+      "guid": "4eee19db-364d-44d6-83bd-085c71bffd07",
+      "content": "五千出头   可以拿到锐龙4600h  六核十二线程  可以拿到1650显卡   满血键盘  高色域2k屏幕   相当优秀的散热以及性能释放    日常使用完全足够   体验极其优秀  低功耗低温度高性能长续航    AMD YSE!\n拯救者r7000，香炸了！",
+      "creationTime": "2020-05-14 22:00:27",
+      "isDelete": false,
+      "isTop": false,
+      "userImageUrl": "storage.360buyimg.com/i.imageUpload/6a645f686465457667444c62554c5631353839343230323538333837_sma.jpg",
+      "topped": 0,
+      "replies": [],
+      "replyCount": 62,
+      "score": 5,
+      "imageStatus": 1,
+      "title": "",
+      "usefulVoteCount": 98,
+      "userClient": 4,
+      "discussionId": 728368061,
+      "imageCount": 8,
+      "anonymousFlag": 0,
+      "plusAvailable": 103,
+      "mobileVersion": "",
+      "images": [
+        {
+          "id": 1132261055,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/129172/3/1499/110524/5ebd4ef5E357f3419/1e0e04b255722071.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132261056,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/122049/9/1494/118731/5ebd4ef6Ef654441e/a76096ca829a723e.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132261057,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/111759/6/6783/83167/5ebd4ef7Eee71db0f/5649ab28e046d121.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132261058,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/117244/9/6866/89270/5ebd4ef8E929078f3/0e586ea357a135c3.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132261059,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/115386/34/6777/76272/5ebd4ef9E5bb49448/4e8199766b75ede6.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132261060,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/122992/38/1527/149978/5ebd4ef9E81a528ff/ac56d0c52e7bb5e8.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132261661,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/129440/24/1578/101656/5ebd4efaE75b6845e/2742a094c3188170.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132261662,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/116306/19/6798/96229/5ebd4efbE02db3ae8/583480f056608b48.jpg",
+          "imgTitle": "",
+          "status": 0
+        }
+      ],
+      "videos": [
+        {
+          "id": 1132261663,
+          "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/178e82bb313435264087805953/imageSampleSnapshot/1589464827_727246677.100_1016.jpg",
+          "videoHeight": 1280,
+          "videoWidth": 720,
+          "videoLength": 10,
+          "videoTitle": "",
+          "videoUrl": 200936705,
+          "videoId": 200936705,
+          "status": 0,
+          "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/178e82bb313435264087805953/v.f30.mp4?dockingId=3f00e905-8d93-4699-a42d-9edda4895afc&storageSource=3"
+        }
+      ],
+      "mergeOrderStatus": 2,
+      "productColor": "R5-4600H/GTX1650",
+      "productSize": "16G/512GSSD",
+      "textIntegral": 20,
+      "imageIntegral": 20,
+      "status": 1,
+      "referenceId": "100012885246",
+      "referenceTime": "2020-05-12 15:19:31",
+      "nickname": "艺以示",
+      "replyCount2": 83,
+      "userImage": "storage.360buyimg.com/i.imageUpload/6a645f686465457667444c62554c5631353839343230323538333837_sma.jpg",
+      "orderId": 0,
+      "integral": 40,
+      "productSales": "[{\"dim\":4,\"saleName\":\"null\",\"saleValue\":\"100%sRGB\"},{\"dim\":5,\"saleName\":\"null\",\"saleValue\":\"幻影黑\"}]",
+      "referenceImage": "jfs/t1/128206/6/403/298429/5eb4fe91Ebede67ec/c1079bf30832e68b.jpg",
+      "referenceName": "联想(Lenovo)拯救者R7000 15.6英寸游戏笔记本电脑(R5-4600H 16G 512G SSD GTX1650 100%sRGB)幻影黑",
+      "firstCategory": 670,
+      "secondCategory": 671,
+      "thirdCategory": 1105,
+      "aesPin": "kPdAh15WJID8_sCsf2Q9g-3dGf49ZM6sg7DUFfPM_3A3Yj5_2vmQXb6jutNpFIJNRbl2eBsgfXD10awyQFerig",
+      "days": 2,
+      "afterDays": 0
+    },
+    {
+      "id": 14154064110,
+      "guid": "7e0b7573-acca-4f79-8032-cf4725ee693a",
+      "content": "包装大气沉稳；做工很不错，A、C面手感好，防指纹，外观走的商务风格，简介大方；键盘有回弹感且声音小，使用舒服；最突出的还是AMD的超强性能，显卡、内存也完全够用了，优秀的生产力工具！",
+      "creationTime": "2020-05-15 10:29:45",
+      "isDelete": false,
+      "isTop": false,
+      "userImageUrl": "storage.360buyimg.com/i.imageUpload/6a645f3636666438386561653731633731353239363431363133323333_sma.jpg",
+      "topped": 0,
+      "replies": [],
+      "replyCount": 27,
+      "score": 5,
+      "imageStatus": 1,
+      "title": "",
+      "usefulVoteCount": 25,
+      "userClient": 4,
+      "discussionId": 728498199,
+      "imageCount": 8,
+      "anonymousFlag": 0,
+      "plusAvailable": 0,
+      "mobileVersion": "",
+      "images": [
+        {
+          "id": 1132501680,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/121850/24/1605/90959/5ebdfe94E1cf4df78/18679b1b65b58dd0.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132501681,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/124093/27/1591/105068/5ebdfe95E0ec51314/29f9b2d3af0dee50.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132501682,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/110948/39/6705/75592/5ebdfe95E4a318a95/fe142e496533a2ab.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132501683,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/119998/29/1614/78582/5ebdfe96Ea58faa40/8531ee5c830a4fb9.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132501684,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/123300/12/1545/121284/5ebdfe97Eb4939c4e/8bfc2f4290ff0c17.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132501685,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/127676/18/1572/115954/5ebdfe97Ed00f3ee6/2456350c71ef78ba.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132501686,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/108774/1/17945/77009/5ebdfe98E6694dce0/fc3d3f4fedb597b8.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1132501687,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/113971/11/6809/82431/5ebdfe99Ec97a53f2/96c46463a7fb03a7.jpg",
+          "imgTitle": "",
+          "status": 0
+        }
+      ],
+      "videos": [
+        {
+          "id": 1132501688,
+          "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/402de0c1313622102819794945/imageSampleSnapshot/1589509379_128411259.100_1054.jpg",
+          "videoHeight": 1280,
+          "videoWidth": 720,
+          "videoLength": 10,
+          "videoTitle": "",
+          "videoUrl": 200979500,
+          "videoId": 200979500,
+          "status": 0,
+          "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/402de0c1313622102819794945/v.f30.mp4?dockingId=99dcb267-b480-441b-8159-32a66456f0fa&storageSource=3"
+        }
+      ],
+      "mergeOrderStatus": 2,
+      "productColor": "R7-4800H/GTX1650",
+      "productSize": "16G/512GSSD",
+      "textIntegral": 20,
+      "imageIntegral": 20,
+      "status": 1,
+      "referenceId": "100012885264",
+      "referenceTime": "2020-05-07 21:39:32",
+      "nickname": "奇幻漂流木",
+      "replyCount2": 67,
+      "userImage": "storage.360buyimg.com/i.imageUpload/6a645f3636666438386561653731633731353239363431363133323333_sma.jpg",
+      "orderId": 0,
+      "integral": 40,
+      "productSales": "[{\"dim\":4,\"saleName\":\"null\",\"saleValue\":\"100%sRGB\"},{\"dim\":5,\"saleName\":\"null\",\"saleValue\":\"幻影黑\"}]",
+      "referenceImage": "jfs/t1/128206/6/403/298429/5eb4fe91Ebede67ec/c1079bf30832e68b.jpg",
+      "referenceName": "联想(Lenovo)拯救者R7000 15.6英寸游戏笔记本电脑(R5-4600H 16G 512G SSD GTX1650 100%sRGB)幻影黑",
+      "firstCategory": 670,
+      "secondCategory": 671,
+      "thirdCategory": 1105,
+      "aesPin": "AXC2MN0H_NT1a493PgJ2YCUFLmLp-uD2mHlXGFsUhBKeAdgKgGODXbRJdTlpXpRjtqkXaRqbUKEydj8ZnxC7zA",
+      "days": 8,
+      "afterDays": 0
+    },
+    {
+      "id": 14167705351,
+      "guid": "30fa8e64-8cb4-479f-b8f2-f8947bd6fe4f",
+      "content": "种草了一个月，终于抢到了首发到手了，箱子是原封，机器没有任何磕碰，键盘是我喜欢的风格，手感很好。处理器很强大，八核十六线程，16G海力士内存，45万多的跑分，各种流畅。显卡性能完全足够办公用。屏幕是100%sRGB的，龙腾光电，虽然名气不如京东方，但是显示还是很细腻，眼睛真的是享受。最后，我只想说，AMD，YES！",
+      "vcontent": "种草了一个月，终于抢到了首发到手了，箱子是原封，机器没有任何磕碰，键盘是我喜欢的风格，手感很好。处理器很强大，八核十六线程，16G海力士内存，45万多的跑分，各种流畅。显卡性能完全足够办公用。屏幕是100%sRGB的，龙腾光电，虽然名气不如京东方，但是显示还是很细腻，眼睛真的是享受。最后，我只想说，AMD，YES！",
+      "creationTime": "2020-05-18 17:58:20",
+      "isDelete": false,
+      "isTop": false,
+      "userImageUrl": "storage.360buyimg.com/i.imageUpload/c4abb5f7d1ccd3ea31353832333030353037363535_sma.jpg",
+      "topped": 0,
+      "replies": [],
+      "replyCount": 25,
+      "score": 5,
+      "imageStatus": 1,
+      "title": "",
+      "usefulVoteCount": 26,
+      "userClient": 2,
+      "discussionId": 730352008,
+      "imageCount": 8,
+      "anonymousFlag": 0,
+      "plusAvailable": 203,
+      "mobileVersion": "",
+      "images": [
+        {
+          "id": 1135493953,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/115227/31/7339/249825/5ec25c3bE92e8ae03/dea690d452692f8e.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135493954,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/112339/15/7392/275727/5ec25c3bE3d7f8dfd/f58acde9f6ed8b49.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135493955,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/116282/26/7319/265258/5ec25c3bEf403010a/22e43645bdf4ad65.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135493956,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/121529/13/2095/366139/5ec25c3bEa5e673e7/624362b67b002af6.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135493957,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/124459/15/1974/355462/5ec25c3bE7a88be18/d74ecf1ba1b9abe6.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135493958,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/114331/40/7298/485649/5ec25c3bE62e63928/6e7c5396273dfd38.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135493959,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/117677/10/7235/400911/5ec25c3bE0326b6f8/8a6446421cd168e7.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135493960,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/126142/29/2074/369312/5ec25c3cE1913cc4b/5fbc4bb6f2cede35.jpg",
+          "imgTitle": "",
+          "status": 0
+        }
+      ],
+      "videos": [
+        {
+          "id": 1135493961,
+          "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/6457fc40314822345993248769/imageSampleSnapshot/1589795512_437275421.100_961.jpg",
+          "videoHeight": 1280,
+          "videoWidth": 720,
+          "videoLength": 9,
+          "videoTitle": "",
+          "videoUrl": 201506365,
+          "videoId": 201506365,
+          "status": 0,
+          "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/6457fc40314822345993248769/v.f30.mp4?dockingId=40ff4f31-8122-4887-adaa-c8dda98c2b2f&storageSource=3"
+        }
+      ],
+      "mergeOrderStatus": 2,
+      "productColor": "R7-4800H/GTX1650",
+      "productSize": "16G/512GSSD",
+      "textIntegral": 20,
+      "imageIntegral": 20,
+      "status": 1,
+      "referenceId": "100012885264",
+      "referenceTime": "2020-05-12 13:32:17",
+      "nickname": "青锋怀天下",
+      "replyCount2": 40,
+      "userImage": "storage.360buyimg.com/i.imageUpload/c4abb5f7d1ccd3ea31353832333030353037363535_sma.jpg",
+      "orderId": 0,
+      "integral": 40,
+      "productSales": "[{\"dim\":4,\"saleName\":\"null\",\"saleValue\":\"100%sRGB\"},{\"dim\":5,\"saleName\":\"null\",\"saleValue\":\"幻影黑\"}]",
+      "referenceImage": "jfs/t1/128206/6/403/298429/5eb4fe91Ebede67ec/c1079bf30832e68b.jpg",
+      "referenceName": "联想(Lenovo)拯救者R7000 15.6英寸游戏笔记本电脑(R5-4600H 16G 512G SSD GTX1650 100%sRGB)幻影黑",
+      "firstCategory": 670,
+      "secondCategory": 671,
+      "thirdCategory": 1105,
+      "aesPin": "OLzrDHCsfWvs7FkiV9vumizpJ-XyXuHVsiwtFR0_FDG-3syzP6yxk3Vn_tVpj-uG5VHQL-t87J7RGujfcuTrbg",
+      "days": 6,
+      "afterDays": 0
+    },
+    {
+      "id": 14166818904,
+      "guid": "afce7814-d67c-424a-a09b-3f15c5e65b07",
+      "content": "AMD YES原小新pro用户 今年拯救者商务外观的R7000 简直太棒了 平时也是放在家里外接显示屏和键盘鼠标用 很少有带出去的场景 所以也许他更适合我 外观来说 比起轻薄本肯定还是黑大粗 但在主流游戏本中还是非常不错 A面和C面还是比较有质感的 至于重量 加个双肩包 勉强也还行吧 性能方面主要用作生产力 偶尔游戏 1650显卡也足够了 比起轻薄本羸弱的MX350强太多 在这个价位买到这个机器 还是很香的 AMD香喷喷 拯救者稳如狗 结合起来香气四溢！\n外形外观：商务低调 正面镭射LOGO内敛不失骚气 *黑配色 C面也非常好看 类TP键盘 满血方向键 电源指示灯三档提示 转轴也很有特色 灵感来源超跑 D面无论是手感还是外观都惨不忍睹 看着散热防尘的面子上算了\n画面品质：京东方的屏幕 亮度色温均正常 阴阳屏和漏光控制的非常出色 比之前小新pro那种玻璃屏幕观感要好许多\n运行速度：4800H低于i5的价格 理论i9的性能 八核心十六线程！7**工艺恐怖的能耗比 屌炸天的性价比\n跑分评测：单拷 更新最新bios 垫起 开始75W 后续稳定在73W左右（十几分钟）多核性能占优 性价比无敌",
+      "creationTime": "2020-05-18 14:20:00",
+      "isDelete": false,
+      "isTop": false,
+      "userImageUrl": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+      "topped": 0,
+      "replies": [],
+      "replyCount": 9,
+      "score": 5,
+      "imageStatus": 1,
+      "title": "",
+      "usefulVoteCount": 15,
+      "userClient": 4,
+      "discussionId": 730229619,
+      "imageCount": 8,
+      "anonymousFlag": 1,
+      "plusAvailable": 201,
+      "mobileVersion": "",
+      "images": [
+        {
+          "id": 1135301666,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/119302/17/7254/230348/5ec2290dEf308708f/925ba5f5d970cf3a.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135301667,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/117917/18/7275/56072/5ec2290dE836e0e1b/c76b2a2715aa65c8.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135301668,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/125903/26/1981/50765/5ec2290dE2e68a364/0715721c9b978b55.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135301669,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/120300/32/2010/91970/5ec2290eE33bc0b86/07472e8507fdc8e0.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135301670,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/120385/29/2003/119523/5ec2290fE60fb7e4f/87a1060064c55266.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135301671,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/112379/27/7222/61199/5ec2290fE6be87f08/2c182af579a13c02.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135301672,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/129091/32/2087/81742/5ec22910E37e1c3d5/fa270c5969159c47.jpg",
+          "imgTitle": "",
+          "status": 0
+        },
+        {
+          "id": 1135301673,
+          "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/115977/9/7295/172369/5ec22910Ef2e44063/31198c260888ef9e.jpg",
+          "imgTitle": "",
+          "status": 0
+        }
+      ],
+      "videos": [
+        {
+          "id": 1135301674,
+          "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/21cf9d6b314767945132158977/imageSampleSnapshot/1589782540_676466746.100_350.jpg",
+          "videoHeight": 620,
+          "videoWidth": 1280,
+          "videoLength": 3,
+          "videoTitle": "",
+          "videoUrl": 201427441,
+          "videoId": 201427441,
+          "status": 0,
+          "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/21cf9d6b314767945132158977/v.f30.mp4?dockingId=e5bdd7a0-7d1a-4d80-8b1d-fbaaa7ccfa74&storageSource=3"
+        }
+      ],
+      "mergeOrderStatus": 2,
+      "productColor": "R7-4800H/GTX1650",
+      "productSize": "16G/512GSSD",
+      "textIntegral": 20,
+      "imageIntegral": 20,
+      "status": 1,
+      "referenceId": "100012885264",
+      "referenceTime": "2020-05-07 20:30:19",
+      "nickname": "j***?",
+      "replyCount2": 18,
+      "userImage": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+      "orderId": 0,
+      "integral": 40,
+      "productSales": "[{\"dim\":4,\"saleName\":\"null\",\"saleValue\":\"100%sRGB\"},{\"dim\":5,\"saleName\":\"null\",\"saleValue\":\"幻影黑\"}]",
+      "referenceImage": "jfs/t1/128206/6/403/298429/5eb4fe91Ebede67ec/c1079bf30832e68b.jpg",
+      "referenceName": "联想(Lenovo)拯救者R7000 15.6英寸游戏笔记本电脑(R5-4600H 16G 512G SSD GTX1650 100%sRGB)幻影黑",
+      "firstCategory": 670,
+      "secondCategory": 671,
+      "thirdCategory": 1105,
+      "aesPin": null,
+      "days": 11,
+      "afterDays": 0
+    }
+  ]
+}
